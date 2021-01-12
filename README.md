@@ -16,8 +16,6 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will build the application using Create-React-App. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started. (A video demonstration of this step can be found in our Zero to Full Stack Hero module)
 Once the build procedure is finished run the command `cd yourappname` and then `npm start` to confirm the app works
-Additional installs:
-We also need to install JQuery and ReactGA. Run the commands `npm install jquery --save` and `npm install react-ga --save` while inside your project folder.
 
 ## 3. Download the template
 
@@ -34,7 +32,7 @@ If you want to display your own pictures then you have to replace the files at t
 
 ## 7. Finalising Resume
 
-Once all the formatting and data input is finalised, run the command `npm start` and you'll see your resume on local host. 
+Once all the formatting and data input is finalised, run the command `npm start` and you'll see your resume on local host.
 Run the command `npm run init` to set up a new or existing npm package. Then run `npm install` and then finally run `npm run build`. This will create a dedicated build folder.
 
 ## 8. Host Resume Online

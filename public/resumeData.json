@@ -2,17 +2,17 @@
   "main": {
     "name": "Sonny Sangha",
     "occupation": "CEO of PAPA",
-    "description": "I'm also a React Specialist and have mostly cloned all the apps that you have used using React JS",
+    "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
     "email": "papareact.team@gmail.com",
     "phone": "+44 1234567899",
     "address": {
-      "street": "Crawford",
+      "street": "123 Dev Lane",
       "city": "London",
-      "state": "Camden",
-      "zip": "NG7 3FA"
+      "state": "Devosphere",
+      "zip": "W3B D3V"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -69,19 +69,19 @@
       },
       {
         "name": "Python",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "Git",
-        "level": "100%"
+        "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "100%"
+        "level": "99%"
       },
       {
         "name": "Web Development",
-        "level": "100%"
+        "level": "95%"
       }
     ]
   },
