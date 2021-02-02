@@ -39,6 +39,12 @@ Run the command `npm run init` to set up a new or existing npm package. Then run
 
 Go to <a href="https://app.netlify.com">Netlify</a> and drag and drop the build folder there. Follow the instructions and your personalised resume will be online!
 
+1) Upload all the Resume related files to your Github Profile
+2) Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
+3) Create a New App
+4) Choose Github as a Deployment Method
+5) Select the correct resume repository that you uploaded in Step 1
+
 ## Credits
 
 ##### Original Idea
