@@ -6,21 +6,27 @@
 
 ## Resume Starter Pack Description
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses. If you need to use this portfolio for your own personal website then follow the steps below:
+This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
 
-## 1. Initial Setup Procedures
+## 1. Make sure you have NODE installed!
 
 Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
 
-## 2. Building a Create-React-App
+## 2. Clone the repo!
 
-Next, you will build the application using Create-React-App. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started. (A video demonstration of this step can be found in our Zero to Full Stack Hero module)
-Once the build procedure is finished run the command `cd yourappname` and then `npm start` to confirm the app works
+Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-## 3. Download the template
+```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
 
-Once the steps above have been followed successfully, download the code above using the green button.
-IMPORTANT: You will have to replace the "public" and "src" folders of your newly built app with the downloaded code. Run the command `npm start` after and you should see a similar render like the LIVE DEMO link above. If it is not the same then go back to Step 1 and try again.
+## 3. Install Dependancies
+
+Next, you need to install all the dependancies using:
+
+```npm install```
+
+Once this is done, you can start the app with:
+
+```npm start```
 
 ## 4. Fill in your personal info
 
@@ -28,20 +34,21 @@ To populate the website with all of your own data, open the public/resumeData.js
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED UNDER ANY CIRCUMSTANCES.
+If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
 
 ## 7. Finalising Resume
 
-Once all the formatting and data input is finalised, run the command `npm start` and you'll see your resume on local host.
-Run the command `npm run init` to set up a new or existing npm package. Then run `npm install` and then finally run `npm run build`. This will create a dedicated build folder.
+Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
 
 ## 8. Host Resume Online
 
-1) Upload all the Resume related files to your Github Profile
-2) Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
-3) Create a New App
-4) Choose Github as a Deployment Method
-5) Select the correct resume repository that you uploaded in Step 1
+1) Open the build folder in the finder screen
+2) Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
+3) Go to the 'Sites Tab'
+4) Simply Drag and drop the 'Build' Folder into the designated upload space
+5) The app will begin deploying & the deployment URL will be presented!
+
+🚀 BOOM, you are now LIVE!!!
 
 ## Credits
 
