@@ -30,7 +30,7 @@ Once this is done, you can start the app with:
 
 ## 4. Fill in your personal info
 
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
+To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the portfolio section are to be put in the public/images/portfolio folder.
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
