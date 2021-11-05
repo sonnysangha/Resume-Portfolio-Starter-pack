@@ -43,7 +43,7 @@
         ]
     },
     "resume": {
-        "skillmessage": "My Programming Language Proficiency",
+        "skillmessage": "Skills and Programming Tools",
         "education": [
             {
                 "school": "University of Centeral Florida- UCF",
@@ -54,10 +54,10 @@
         ],
         "work": [
             {
-                "company": "PAPA",
-                "title": "Founder and CEO",
-                "years": "May 2019 - Present",
-                "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+                "company": "Freedom Powersports  Lewisville,TX",
+                "title": "Office Manager",
+                "years": "February 2019- July 2020",
+                "description": "In charge of balacning accounts and paying bills, as well as factory rebate reconciliation. Responsible for running reports and making sure manufactures and suppliers and paid accordingly. Assisted General Manager with inventory management and dealer transfers. Title and Registration for all sales units."
             }
         ],
         "skills": [
@@ -81,22 +81,22 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Snapchat Clone (React JS)",
+                "title": "Love Me True Rescue Case Study",
                 "category": "",
                 "image": "snapchat.jpg",
-                "url": "https://youtu.be/1kGISk5ft2w"
+                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A143&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A143"
             },
             {
-                "title": "Gmail Clone (React JS)",
+                "title": "Tastebud Case Study",
                 "category": "",
                 "image": "gmail.jpg",
-                "url": "https://youtu.be/b7nrXjS6Dqs"
+                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A1238&scaling=min-zoom&page-id=1%3A1115"
             },
             {
-                "title": "LinkedIn Clone (React JS)",
+                "title": "Travelbugg Case Study",
                 "category": "",
                 "image": "linkedin.jpg",
-                "url": "https://youtu.be/QaYts9sPmcY"
+                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A3123&scaling=min-zoom&page-id=1%3A1116"
             }
         ]
     },
