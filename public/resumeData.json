@@ -1,105 +1,106 @@
 {
-    "main": {
-        "name": "Morgan Johnson",
-        "occupation": "UX Designer",
-        "description": "Curious, self driven and a couple cups of coffee along the way",
-        "image": "profilepic.jpg",
-        "bio": "I`m a Florida based UX Designer that enjoys making meaningful designs through every day life. UX spiked my interest after 7 years in the motorcycle industry. Learning how to simplify a process to be more efficient is my key to life. Digging into the design process and learning all the whys behind the design is my new new obsession. Design soultuions are everywhere, who would have thought a red Go button would make me change my whole career.",
-        "contactmessage": "Send me a message!",
-        "email": "morganjohnson.ux@gmail.com",
-        "address": {
-            "city": "Tampa",
-            "state": "Florida",
-            "zip": "33758"
-        },
-        "website": "https://www.papareact.com/course",
-        "resumedownload": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=117%3A5292&scaling=min-zoom&page-id=116%3A5291",
-        "social": [
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/morgan-johnsonux/",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "instagram",
-                "url": "",
-                "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/mojoe15",
-                "className": "fa fa-github"
-            }
-        ]
-    },
-    "resume": {
-        "skillmessage": "Skills and Programming Tools",
-        "education": [
-            {
-                "school": "University of Centeral Florida- UCF",
-                "degree": "UX Designer",
-                "graduated": "Novemeber 2021",
-                "description": "UX/UI Design Bootcamp"
-            }
-        ],
-        "work": [
-            {
-                "company": "Freedom Powersports  Lewisville,TX",
-                "title": "Office Manager",
-                "years": "February 2019- July 2020",
-                "description": "In charge of balacning accounts and paying bills, as well as factory rebate reconciliation. Responsible for running reports and making sure manufactures and suppliers and paid accordingly. Assisted General Manager with inventory management and dealer transfers. Title and Registration for all sales units."
-            }
-        ],
-        "skills": [
-            {
-                "name": "Empathy"
-            },
-            {
-                "name": "Collaboration"
-            },
-            {
-                "name": "Design Process"
-            },
-            {
-                "name": "Information Architecture"
-            },
-            {
-                "name": "Creative"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Love Me True Rescue Case Study",
-                "category": "",
-                "image": "lmtr.png",
-                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A143&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A143"
-            },
-            {
-                "title": "Tastebud Case Study",
-                "category": "",
-                "image": "tastebud.png",
-                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A1238&scaling=min-zoom&page-id=1%3A1115"
-            },
-            {
-                "title": "Travelbugg Case Study",
-                "category": "",
-                "image": "travelbugg.png",
-                "url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A3123&scaling=min-zoom&page-id=1%3A1116"
-            }
-        ]
-    },
-    "testimonials": {
-        "testimonials": [
-            {
-                "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-                "user": "Jorge Fouto"
-            },
-            {
-                "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-                "user": "Adam Curtis"
-            }
-        ]
-    }
+	"main": {
+		"name": "Morgan Johnson",
+		"firstName": "Morgan",
+		"occupation": "UX Designer",
+		"description": "Curious, self driven and a couple cups of coffee along the way",
+		"image": "profilepic.jpg",
+		"bio": "I`m a Florida based UX Designer that enjoys making meaningful designs through every day life. UX spiked my interest after 7 years in the motorcycle industry. Learning how to simplify a process to be more efficient is my key to life. Digging into the design process and learning all the whys behind the design is my new new obsession. Design soultuions are everywhere, who would have thought a red Go button would make me change my whole career.",
+		"contactmessage": "Send me a message!",
+		"email": "morganjohnson.ux@gmail.com",
+		"address": {
+			"city": "Tampa",
+			"state": "Florida",
+			"zip": "33619"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=117%3A5292&scaling=min-zoom&page-id=116%3A5291",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/morgan-johnsonux/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/mojoe15",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Skills and Programming Tools",
+		"education": [
+			{
+				"school": "University of Centeral Florida- UCF",
+				"degree": "UX Designer",
+				"graduated": "Novemeber 2021",
+				"description": "UX/UI Design Bootcamp"
+			}
+		],
+		"work": [
+			{
+				"company": "Freedom Powersports  Lewisville,TX",
+				"title": "Office Manager",
+				"years": "February 2019- July 2020",
+				"description": "In charge of balacning accounts and paying bills, as well as factory rebate reconciliation. Responsible for running reports and making sure manufactures and suppliers and paid accordingly. Assisted General Manager with inventory management and dealer transfers. Title and Registration for all sales units."
+			}
+		],
+		"skills": [
+			{
+				"name": "Empathy"
+			},
+			{
+				"name": "Collaboration"
+			},
+			{
+				"name": "Design Process"
+			},
+			{
+				"name": "Information Architecture"
+			},
+			{
+				"name": "Creative"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Love Me True Rescue Case Study",
+				"category": "This project was about nothing",
+				"image": "lmtr.png",
+				"url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A143&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A143"
+			},
+			{
+				"title": "Tastebud Case Study",
+				"category": "This project was about nothing",
+				"image": "tastebud.png",
+				"url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A1238&scaling=min-zoom&page-id=1%3A1115"
+			},
+			{
+				"title": "Travelbugg Case Study",
+				"category": "This project was about nothing",
+				"image": "travelbugg.png",
+				"url": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=1%3A3123&scaling=min-zoom&page-id=1%3A1116"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+				"user": "Jorge Fouto"
+			},
+			{
+				"text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+				"user": "Adam Curtis"
+			}
+		]
+	}
 }
