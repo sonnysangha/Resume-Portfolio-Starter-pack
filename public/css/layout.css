@@ -46,7 +46,7 @@ header {
 /* vertically center banner section */
 header:before {
 	content: "";
-	display: inline;
+	display: inline-block;
 	vertical-align: middle;
 	height: 100%;
 }
