@@ -472,6 +472,7 @@ ul#nav li.current a {
 #portfolio-wrapper {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
 #portfolio-wrapper .columns {
 	margin-bottom: 36px;

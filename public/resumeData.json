@@ -3,9 +3,9 @@
 		"name": "Morgan Johnson",
 		"firstName": "Morgan",
 		"occupation": "UX Designer",
-		"description": "Curious, self driven and a couple cups of coffee along the way",
+		"description": "Curious, self-driven and ready to solve tomorrow's problems through design",
 		"image": "profilepic.jpg",
-		"bio": "I`m a Florida based UX Designer that enjoys making meaningful designs through every day life. UX spiked my interest after 7 years in the motorcycle industry. Learning how to simplify a process to be more efficient is my key to life. Digging into the design process and learning all the whys behind the design is my new new obsession. Design soultuions are everywhere, who would have thought a red Go button would make me change my whole career.",
+		"bio": " I`m a Florida based UX Designer that enjoys making meaningful designs through every day life. UX spiked my interest after 7 years in the motorcycle industry. Learning how to simplify a process to be more efficient is my key to life. Digging into the design process and learning all the whys behind the design is my new obsession. Design solutions are everywhere, who would have thought a red 'Go' button would make me change my whole career.",
 		"contactmessage": "Send me a message!",
 		"email": "morganjohnson.ux@gmail.com",
 		"address": {
@@ -13,18 +13,13 @@
 			"state": "Florida",
 			"zip": "33619"
 		},
-		"website": "https://www.papareact.com/course",
+		"website": "https://www.morganjohnsonux.com",
 		"resumedownload": "https://www.figma.com/proto/oKpEMUREVBxruNhVLU9I7N/Portfolio?node-id=117%3A5292&scaling=min-zoom&page-id=116%3A5291",
 		"social": [
 			{
 				"name": "linkedin",
 				"url": "https://www.linkedin.com/in/morgan-johnsonux/",
 				"className": "fa fa-linkedin"
-			},
-			{
-				"name": "instagram",
-				"url": "",
-				"className": "fa fa-instagram"
 			},
 			{
 				"name": "github",
@@ -37,9 +32,9 @@
 		"skillmessage": "Skills and Programming Tools",
 		"education": [
 			{
-				"school": "University of Centeral Florida- UCF",
+				"school": "University of Central Florida- UCF",
 				"degree": "UX Designer",
-				"graduated": "Novemeber 2021",
+				"graduated": "November 2021",
 				"description": "UX/UI Design Bootcamp"
 			}
 		],
@@ -48,7 +43,7 @@
 				"company": "Freedom Powersports  Lewisville,TX",
 				"title": "Office Manager",
 				"years": "February 2019- July 2020",
-				"description": "In charge of balacning accounts and paying bills, as well as factory rebate reconciliation. Responsible for running reports and making sure manufactures and suppliers and paid accordingly. Assisted General Manager with inventory management and dealer transfers. Title and Registration for all sales units."
+				"description": "In charge of balancing accounts and paying bills, as well as factory rebate reconciliation. Responsible for running reports and making sure manufactures and suppliers and paid accordingly. Assisted General Manager with inventory management and dealer transfers. Title and Registration for all sales units."
 			}
 		],
 		"skills": [

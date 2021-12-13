@@ -285,9 +285,6 @@
 	/* Portfolio Section
    /* ----------------------------------------------------------------- */
 
-	#portfolio-wrapper {
-		flex-direction: column;
-	}
 	#portfolio-wrapper .columns {
 		margin-bottom: 40px;
 	}
