@@ -236,8 +236,8 @@ ul#nav li.current a {
 }
 #about .profile-pic {
 	position: relative;
-	width: 120px;
-	height: 120px;
+	width: 200px;
+	height: auto;
 	border-radius: 100%;
 }
 #about .contact-details {
@@ -457,6 +457,7 @@ ul#nav li.current a {
 	background: #ebeeee;
 	padding-top: 90px;
 	padding-bottom: 60px;
+	overflow: auto;
 }
 #portfolio h1 {
 	font: 15px/24px "opensans-semibold", sans-serif;
@@ -964,7 +965,6 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #f8aaa0;
 }
 #contact button.submit {
 	text-transform: uppercase;
