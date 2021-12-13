@@ -284,6 +284,10 @@
 
 	/* Portfolio Section
    /* ----------------------------------------------------------------- */
+	#portfolio-wrapper {
+		flex-direction: column;
+		align-items: center;
+	}
 
 	#portfolio-wrapper .columns {
 		margin-bottom: 40px;
