@@ -1,122 +1,120 @@
 {
-  "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
-    "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+    "main": {
+        "name": "Valdemir Gonçalves Junior",
+        "occupation": "Junior Software Developer",
+        "description": "I Love Learning and working in a excited team,I Love Gardening also :)! ",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I am Valdemir! You might also know me as Junior. I've been studying and coding for 1 year now. As a Junior Full Stack Developer, I have Studied at Bethel School of technology (reeding, California) for about 9 months in a Bootcamp. At the end of School, I realized a dream of developing a Stroke support group web application for Stroke Survivors to share their struggles and testimonies and also for Doctors to share treatments and hope to recover from it. Why? Because I survived a massive stroke at 36 years old paralyzing half of my body and fighting for more than 2 years to recover from it, since January 31st 2020 when it happened. with no medical condition or reason to have a stroke people and Doctors said I was supposed to be dead but I like to think I was supposed to be alive. Alive to cooperate, to give a testimony to encourage. Why did I decide to start coding? 1 Doctor advised me to find a job that would force my brain to think because I would depend on my brain from now on after being paralyzed. and the cognitive side of my brain was destroyed and I needed to force my brain to be restored, it is like a muscle I had to work on it, always working as a hardware technician coming to the USA from Brazil in 2004 I learned how to paint houses and I became the best of it, opened my first painting company in 2011(DNA Painting inc, my second in 2019, Anais Painting inc. having up to 20 employees. I  learned how to manage and work in a team.2020 was the year the stroke happened and I did stop all my business. And after the stroke going to achieve my dream to be able to develop.to code something I started in Brazil in 2004 at university but I could not finish because I had to leave the country and run to the USA. today as an American citizen in love with the culture and the people I want to Give back to this Country that has helped me so much. now it is the coding time!",
+        "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+        "email": "infojr.83@gmail.com",
+        "phone": "(754)-366-99-22",
+        "address": {
+            "street": "16th ave north",
+            "city": "Lake Worth",
+            "state": "Florida",
+            "zip": "33460"
+        },
+        "website": "https://www.papareact.com/course",
+        "resumedownload": "https://valdemirportfolio.netlify.app/",
+        "social": [{
+
+
+                "name": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100001451255463",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/valdemir-r-gon%C3%A7alves-junior-23442676/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/valdemir_junior_goncalves/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/ValdemirJunior2020",
+                "className": "fa fa-github"
+            }
+        ]
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
-    "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
-      }
-    ],
-    "work": [
-      {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
-  }
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "Bethel School of Tecmology- USA",
+            "degree": "Certified, Full Stack Software Developer",
+            "graduated": "August- 2021",
+            "description": "Graduated with Gpa above 3.0"
+        }],
+        "work": [{
+            "company": "The Home Depot",
+            "title": "Cashier",
+            "years": "Jan 2022 - Present",
+            "description": "Helping Customers to have a better Shopping Experience"
+        }],
+        "skills": [{
+                "name": "ReactJs",
+                "level": "45%"
+            },
+            {
+                "name": "Spanish",
+                "level": "50%"
+            },
+            {
+                "name": "Portuguese",
+                "level": "100%"
+            },
+            {
+                "name": "English",
+                "level": "100%"
+            },
+            {
+                "name": "French",
+                "level": "1%"
+            },
+            {
+                "name": "Angular",
+                "level": "5%"
+            },
+            {
+                "name": "Git",
+                "level": "70%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "40%"
+            },
+            {
+                "name": "MySQL",
+                "level": "5%"
+            },
+            {
+                "name": "Web Development",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Stroke Support Project",
+                "category": "",
+                "image": "snapchat.jpg",
+                "url": "https://news.wttw.com/sites/default/files/field/image/C2N_r_School%20Project%20Ep%201_frame_1841_0_0.jpg"
+            }
+
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Junior is absolutely excellent,he makes the Environment feel happy and safe ",
+                "user": "Renato Prado"
+            },
+            {
+                "text": "Working with Junior has been AWESOME, you'll finally feel like you know what's going on!",
+                "user": "Adam Curtis"
+            }
+        ]
+    }
 }
