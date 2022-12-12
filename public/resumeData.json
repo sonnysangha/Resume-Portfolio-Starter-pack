@@ -1,109 +1,82 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Mason Williams",
+    "occupation": "Full Stack Web Development",
+    "description": "Full Stack Father as well",
+    "image": "",
+    "bio": "Hi there! I am Mason! I've been coding for just over 6 months now.  I have recently graduated from Awesome Inc's coding boot-camp.  As a Full Stack developer I've worked both with the front end with JavaScript and React and the back end with Python and Django-Rest-Framework. Along the journey I realized my passion of solving problems and learning the most efficient solutions for those problems. With this passion, I have now successfully graduated from a full stack web development program in a short 16 weeks.  Before that my experience with computers was minimal.  The most I ever touched them was for school with Microsoft Office. Through this boot camp I have learned a broad field of general knowledge about computer programming and a very in depth knowledge of how I learn.",
+    "contactmessage": "Questions, comments, and job offers?",
+    "email": "bellowingbutcher@gmail.com",
+    "phone": "",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Winchester",
+      "state": "Kentucky",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "TBD",
+    "resumedownload": "TBD",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "www.linkedin.com/in/mason-j-williams",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/BellowingButcher",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "I have worked with ReactJs, JavaScript, Python, Django-Rest-Framework, and SQL",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Kentucky - UK",
+        "degree": "Three years of class",
+        "graduated": "",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Whole Foods Market",
+        "title": "Butcher",
+        "years": "Dec 2014 - Aug 2022",
+        "description": "Delegated daily tasks to team members on shift in order to accomplish team goals, serve customers, and provide quality product.  Analyzed the department's products for quality assurance. Created daily updates for an efficient workflow and led the team in execution by completing tasks, assisting other team members and maintaining accountability. Educated clients on intricate details of the final purchase with clarity, ensuring understanding, detail orientation and always striving to provide the highest quality of service."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
         "name": "Git",
-        "level": "70%"
+        "level": "76%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "75%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Pandas",
+        "level": "85%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Total Time Tracker (React, Python)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "totalTime.png",
+        "url": "https://total-time-tracker.web.app/"
       }
     ]
   },
@@ -120,3 +93,5 @@
     ]
   }
 }
+
+
