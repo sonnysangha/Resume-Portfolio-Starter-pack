@@ -37,7 +37,7 @@ const Contact = ({ data }) => {
         </div>
 
         <div className="ten columns">
-          <p className="lead">{contactMessage}</p>
+          <p className="lead"><h4>{contactMessage}</h4></p>
         </div>
       </div>
 
