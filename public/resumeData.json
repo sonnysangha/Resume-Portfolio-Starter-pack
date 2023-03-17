@@ -1,46 +1,41 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Yameen Dasadiya",
+    "occupation": "Python Developer",
+    "description": "I eat, sleep and code.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Yameen! You might also know me as Dyameen. I've been coding for over 1 years now. As a Full Stack developer I've worked both with startups and corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. I deliver REAL VALUE by teaching REAL WORLD projects to help juniors enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me!",
+    "email": "yameendasadiya93@gmail.com",
+    "phone": "+91 9757095386 ",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "12/2 Alaknanda Society,Visnagar Road",
+      "city": "Mehsana",
+      "state": "Guajarat",
+      "zip": "384001 "
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/dyameen",
         "className": "fa fa-linkedin"
       },
       {
+        "name": "github",
+        "url": "https://github.com/yameen-dasadiya",
+        "className": "fa fa-github"
+      },
+      {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/dyameen/",
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/Dyameen",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -48,24 +43,24 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "M.H.Saboo Siddik College Of Engineering, (Mumbai University)",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "July 2017",
+        "description": "Graduated with 6.64 CGPI"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Sheltersoft",
+        "title": "Jr Python Developer",
+        "years": "Dec 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "Python",
@@ -77,11 +72,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "50%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "60%"
       }
     ]
   },
@@ -90,8 +85,8 @@
       {
         "title": "Snapchat Clone (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "",
+        "url": ""
       },
       {
         "title": "Gmail Clone (React JS)",
@@ -110,12 +105,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Yameen is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Abhishek Dubey"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Yameen has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Darshil Joshi"
       }
     ]
   }
