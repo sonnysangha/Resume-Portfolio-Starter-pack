@@ -2,7 +2,7 @@ import React from "react";
 
 const About = ({ data }) => {
   if (data) {
-    var name = data.name;
+    var name = "Akhilesh S Pujar";
     var profilepic = "images/" + data.image;
     var bio = data.bio;
     var street = data.address.street;

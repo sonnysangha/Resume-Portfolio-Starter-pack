@@ -3,10 +3,10 @@ import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
   if (data) {
-    var name = data.name;
-    var occupation = data.occupation;
+    var name = "Akhilesh";
+    var occupation = "Software_Engg";
     var description = data.description;
-    var city = data.address.city;
+    var city = "Baglore";
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>

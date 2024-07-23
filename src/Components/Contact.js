@@ -7,7 +7,7 @@ const Contact = ({ data }) => {
   const [message, setMessage] = useState("");
 
   if (data) {
-    var contactName = data.name;
+    var contactName = "Akhilesh";
     var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
