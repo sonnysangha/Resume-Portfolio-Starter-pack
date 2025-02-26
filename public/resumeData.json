@@ -1,35 +1,26 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Daiwiik",
+    "sur_name": "Harihar",
+    "occupation": "2nd Year Computer Science Student",
+    "description": "Full Stack Developer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper.",
+    "contactmessage": "Get in touch with me",
+    "email": "daiwiikharihar@gmail.com",
+    "phone": "+91 7755921891",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "NIBM Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411048"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "www.linkedin.com/in/daiwiik-harihar",
         "className": "fa fa-linkedin"
       },
       {
@@ -39,8 +30,13 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/daiv09",
         "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@daiwiikharihar17147",
+        "className": "fa fa-medium"
       }
     ]
   },
@@ -48,18 +44,28 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Dr. Vishwanath Karad MIT World Peace University",
+        "degree": "Bachelor's Degree, Computer Science Engineering",
+        "graduated": "2027"
+      },
+      {
+        "school": "Arihant College of Arts, Commerce and Science",
+        "degree": "Higher Secondary School Certificate (HSC)",
+        "graduated": "2021-2023",
+        "description": "Passed with 90% score in Computer Science"
+      },
+      {
+        "school": "The Bishop's School, Undri, Pune",
+        "degree": "Indian Council of Secondary Education (ICSE)",
+        "graduated": "2008-2021"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Lorem",
+        "title": "Lorem picsum lorem",
+        "years": "Lorem picsum lorem",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
       }
     ],
     "skills": [
@@ -68,11 +74,19 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "NextJS",
+        "level": "100%"
       },
       {
         "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
         "level": "70%"
       },
       {
@@ -110,12 +124,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+        "user": "Lorem ipsum"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque",
+        "user": "Lorem ipsum"
       }
     ]
   }
