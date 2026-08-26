@@ -1,122 +1,102 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Bharat Sharma",
+    "occupation": "IT Data Analyst · QA Engineer · AI/ML Engineer",
+    "description": "Experienced data and software engineer with strong QA automation, cloud, and LLM/AI expertise. Local to Phoenix, AZ — available for interview ASAP.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Seasoned engineer with experience building scalable web applications, automated test frameworks, data pipelines, and LLM-based solutions. Strong background in .NET, Python, SQL, Selenium/UFT automation, and cloud migrations (GCP/AWS) using Terraform. Delivered healthcare-focused solutions with Medicare domain knowledge and led agile teams to production deployments.",
+    "contactmessage": "Open to opportunities — available for interviews.",
+    "email": "bharat549sa@gmail.com",
+    "phone": "+91 5027949128",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "USA"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://github.com/bharat549sa",
+    "resumedownload": "resume_version2.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/bsharmakysp/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/bharat549sa",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Technical skills and tools",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Louisville",
+        "degree": "Bachelors in Electrical Engineering",
+        "graduated": "2011",
+        "description": "Undergraduate degree in Electrical Engineering"
+      },
+      {
+        "school": "University of Austin",
+        "degree": "Masters certificate, Computer Science",
+        "graduated": "(certification)",
+        "description": "Graduate coursework and professional certification in Computer Science"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Kroger",
+        "title": "IT Data Analyst / QA / AWS Support Analyst",
+        "years": "Oct 2022 - Present",
+        "description": "Developed automated test frameworks (UFT, Selenium), authored SQL for data validation and reporting, supported cloud operations, and built data pipelines and ML preprocessing workflows. Applied Medicare domain knowledge to healthcare projects and collaborated with product and QA teams."
+      },
+      {
+        "company": "Krishna Soft Consulting (State Farm)",
+        "title": "Swift QA Engineer / AWS Support Analyst",
+        "years": "Sep 2023 - Apr 2024",
+        "description": "Built prototype web applications (ASP.NET MVC), designed data storage in SQL, created automation tests, and contributed to mobile app debugging and performance testing."
+      },
+      {
+        "company": "HCL America / Krishna Soft",
+        "title": "QA Engineer / AWS Support Analyst / Data Analyst",
+        "years": "Jul 2021 - Mar 2022",
+        "description": "Worked on API backends, data migration, ETL pipelines, and cloud deployments (GCP/AWS). Developed stored procedures, automated test suites, and reporting interfaces."
+      },
+      {
+        "company": "MCS / Reddit (contract)",
+        "title": "QA Engineer / AWS Support Analyst",
+        "years": "Feb 2020 - Jul 2021",
+        "description": "Developed web applications with .NET Core and React, deployed to Azure, implemented security controls, and created CI/CD pipelines."
+      },
+      {
+        "company": "Infosys (Walmart / Amex)",
+        "title": "Technology Analyst / QA Engineer",
+        "years": "May 2018 - Feb 2020",
+        "description": "Worked across full SDLC on .NET, automated test frameworks, SQL development, and cloud services. Integrated automated tests into CI/CD and collaborated with stakeholders to deliver quality releases."
+      },
+      {
+        "company": "HP (State of Ohio)",
+        "title": "QA Engineer",
+        "years": "Jan 2017 - Apr 2017",
+        "description": "Delivered healthcare projects (Medicare/Medicaid), designed ASP.NET MVC UIs, and supported WCF service integrations and automated testing."
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
-      }
+      { "name": ".NET / C#", "level": "Advanced" },
+      { "name": "Python (Data, ML)", "level": "Advanced" },
+      { "name": "SQL / T-SQL / PL/SQL", "level": "Advanced" },
+      { "name": "Test Automation (Selenium, UFT)", "level": "Advanced" },
+      { "name": "Cloud (AWS, GCP), Terraform", "level": "Advanced" },
+      { "name": "LLM / RAG / AI engineering", "level": "Intermediate" },
+      { "name": "Node.js / REST APIs", "level": "Intermediate" },
+      { "name": "React / Front-end", "level": "Intermediate" }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
+    "projects": []
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
-      }
-    ]
+    "testimonials": []
   }
 }
